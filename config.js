@@ -15,4 +15,4 @@ const CONFIG = {
     mess: 'tui biết mà 🥰. tui cũng .... bà nhiều nhiều 😘😘',
     messDesc: 'Tối nay tui qua đón đi chơi nha,à mà quên bà còn coi phimmmm',
     btnAccept: 'Okiiiii lun <3',
-    messLink:
+ 
